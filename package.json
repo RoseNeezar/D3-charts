@@ -1,0 +1,31 @@
+{
+  "name": "react-states",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "immer": "^9.0.5",
+    "mem": "^9.0.1",
+    "next": "11.0.1",
+    "next-transpile-modules": "^8.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-draggable": "^4.4.3",
+    "react-router-dom": "^5.2.0",
+    "recoil": "^0.3.1",
+    "rxjs": "^7.3.0",
+    "zustand": "^3.5.7"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.14",
+    "@types/react-router-dom": "^5.1.8",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "typescript": "4.3.5"
+  }
+}
